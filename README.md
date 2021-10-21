@@ -36,15 +36,15 @@ I believe that computer science and mathematics are a key part of life. Being am
     <img alt="C" src="https://img.shields.io/badge/C-00599c?style=flat&logo=c&logoColor=white">
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599c?style=flat&logo=c%2B%2B&logoColor=white">
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white">
-    <img alt="Cool" src="https://img.shields.io/badge/Cool-00599c?style=flat&logoColor=white">
+    <img alt="Cool" src="https://img.shields.io/badge/Cool-00599c?style=flat">
     <img alt="F#" src="https://img.shields.io/badge/F%23-239120?style=flat&logoColor=white">
     <img alt="Haskell" src="https://img.shields.io/badge/Haskell-5d4f85?style=flat&logo=haskell&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=f7df1e">
-    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-00599c?style=flat&logoColor=white">
-    <img alt="NASM" src="https://img.shields.io/badge/NASM-00599c?style=flat&logoColor=white">
+    <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-00599c?style=flat">
+    <img alt="NASM" src="https://img.shields.io/badge/NASM-00599c?style=flat">
     <img alt="Powershell" src="https://img.shields.io/badge/PowerShell-5391fe?style=flat&logo=powershell&logoColor=white">
-    <img alt="Prolog" src="https://img.shields.io/badge/Prolog-00599c?style=flat&logoColor=white">
+    <img alt="Prolog" src="https://img.shields.io/badge/Prolog-00599c?style=flat">
     <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
     <img alt="R" src="https://img.shields.io/badge/R-276dc3?style=flat&logo=r&logoColor=white">
   </p>
@@ -53,12 +53,12 @@ I believe that computer science and mathematics are a key part of life. Being am
 <details>
   <summary>Markup Languages</summary>
   <p>
-    <img alt="GML" src="https://img.shields.io/badge/GML-00599c?style=flat&logoColor=white">
+    <img alt="GML" src="https://img.shields.io/badge/GML-00599c?style=flat">
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=html5&logoColor=white">
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white">
     <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=LaTeX&logoColor=white">
-    <img alt="XHTML" src="https://img.shields.io/badge/XHTML-00599c?style=flat&logoColor=white">
-    <img alt="XML" src="https://img.shields.io/badge/XML-00599c?style=flat&logoColor=white">
+    <img alt="XHTML" src="https://img.shields.io/badge/XHTML-00599c?style=flat">
+    <img alt="XML" src="https://img.shields.io/badge/XML-00599c?style=flat">
   </p>
 </details>
 
@@ -75,7 +75,7 @@ I believe that computer science and mathematics are a key part of life. Being am
   <summary>Query Languages</summary>
   <p>
     <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-e10098?style=flat&logo=graphql&logoColor=white">
-    <img alt="LINQ" src="https://img.shields.io/badge/LINQ-00599c?style=flat&logoColor=white">
+    <img alt="LINQ" src="https://img.shields.io/badge/LINQ-00599c?style=flat">
   </p>
 </details>
 
@@ -114,21 +114,6 @@ I believe that computer science and mathematics are a key part of life. Being am
 </details>
 
 <details>
-  <summary>IDEs / Editors</summary>
-  <p>
-    <img alt="CLion" src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white">
-    <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white">
-    <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2c2255?style=flat&logo=eclipse&logoColor=white">
-    <img alt="Ideone" src="https://img.shields.io/badge/Ideone-00599c?style=flat&logoColor=white">
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-f37626?&style=flat&logo=jupyter&logoColor=white">
-    <img alt="Pastebin" src="https://img.shields.io/badge/Pastebin-02456c?style=flat&logo=pastebin&logoColor=white">
-    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-575757?&style=flat&logo=sublimetext&logoColor=ff9800">
-    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat&logo=visualstudio&logoColor=white">
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=flat&logo=visualstudiocode&logoColor=white">
-  </p>
-</details>
-
-<details>
   <summary>Version Control</summary>
   <p>
     <img alt="Azure Repos" src="https://img.shields.io/badge/Azure%20Repos-0078d7?style=flat&logo=azuredevops&logoColor=white">
@@ -156,5 +141,46 @@ I believe that computer science and mathematics are a key part of life. Being am
     <img alt="Azure Functions" src="https://img.shields.io/badge/Azure%20Functions-0062ad?style=flat&logo=azurefunctions&logoColor=white">
     <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088ff?style=flat&logo=githubactions&logoColor=white">
     <img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-181717?style=flat&logo=gitlab&logoColor=white">
+  </p>
+</details>
+
+<details>
+  <summary>Machine Learning / Deep Learning</summary>
+  <p>
+    <img alt="Keras" src="https://img.shields.io/badge/Keras-d00000?style=flat&logo=keras&logoColor=white">
+    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-00599c?style=flat">
+    <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white">
+    <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-f7931e?style=flat&logo=scikitlearn&logoColor=white">
+    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white">
+  </p>
+</details>
+
+<details>
+  <summary>IDEs / Editors</summary>
+  <p>
+    <img alt="CLion" src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white">
+    <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white">
+    <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2c2255?style=flat&logo=eclipse&logoColor=white">
+    <img alt="Ideone" src="https://img.shields.io/badge/Ideone-00599c?style=flat">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-f37626?&style=flat&logo=jupyter&logoColor=white">
+    <img alt="Pastebin" src="https://img.shields.io/badge/Pastebin-02456c?style=flat&logo=pastebin&logoColor=white">
+    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-575757?&style=flat&logo=sublimetext&logoColor=ff9800">
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat&logo=visualstudio&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=flat&logo=visualstudiocode&logoColor=white">
+  </p>
+</details>
+
+<details>
+  <summary>Operating Systems</summary>
+  <p>
+    <img alt="Alpine Linux" src="https://img.shields.io/badge/Alpine%20Linux-0d597f?style=flat&logo=alpinelinux&logoColor=white">
+    <img alt="Android" src="https://img.shields.io/badge/Android-3ddc84?style=flat&logo=android&logoColor=white">
+    <img alt="Debian" src="https://img.shields.io/badge/Debian-a81d33?style=flat&logo=debian&logoColor=white">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-fcc624?style=flat&logo=linux&logoColor=black">
+    <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87cf3e?&style=flat&logo=linuxmint&logoColor=white">
+    <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-e95420?style=flat&logo=ubuntu&logoColor=white">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078d6?&style=flat&logo=windows&logoColor=white">
   </p>
 </details>
