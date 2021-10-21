@@ -89,3 +89,11 @@ I believe that computer science and mathematics are a key part of life. Being am
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003b57?style=flat&logo=sqlite&logoColor=white">
   </p>
 </details>
+
+<details>
+  <summary>Message Brokers</summary>
+  <p>
+    <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231f20?style=flat&logo=apachekafka&logoColor=white">
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-ff6600?&style=flat&logo=rabbitmq&logoColor=white">
+  </p>
+</details>
