@@ -11,6 +11,7 @@ I believe that computer science and mathematics are a key part of life. Being am
 ## Social
 
 <p>
+  <a href="https://github.com/jromero132" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
   <a href="mailto:josea132.romero@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-ea4335?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jose-ariel-romero/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
@@ -44,7 +45,7 @@ I believe that computer science and mathematics are a key part of life. Being am
     <img alt="NASM" src="https://img.shields.io/badge/NASM-00599c?style=flat&logoColor=white">
     <img alt="Powershell" src="https://img.shields.io/badge/PowerShell-5391fe?style=flat&logo=powershell&logoColor=white">
     <img alt="Prolog" src="https://img.shields.io/badge/Prolog-00599c?style=flat&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
     <img alt="R" src="https://img.shields.io/badge/R-276dc3?style=flat&logo=r&logoColor=white">
   </p>
 </details>
@@ -94,6 +95,66 @@ I believe that computer science and mathematics are a key part of life. Being am
   <summary>Message Brokers</summary>
   <p>
     <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231f20?style=flat&logo=apachekafka&logoColor=white">
-    <img alt="RabbitMQ" src="https://img.shields.io/badge/rabbitmq-ff6600?&style=flat&logo=rabbitmq&logoColor=white">
+    <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-ff6600?&style=flat&logo=rabbitmq&logoColor=white">
+  </p>
+</details>
+
+<details>
+  <summary>Frameworks</summary>
+  <p>
+    <img alt=".NET" src="https://img.shields.io/badge/.NET-512bd4?style=flat&logo=dotnet&logoColor=white">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat&logo=bootstrap&logoColor=white">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white">
+    <img alt="Django REST" src="https://img.shields.io/badge/Django-REST-ff1709?style=flat&logo=django&logoColor=white&color=gray&labelColor=092E20">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
+    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat&logo=springboot&logoColor=white">
+  </p>
+</details>
+
+<details>
+  <summary>IDEs / Editors</summary>
+  <p>
+    <img alt="CLion" src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white">
+    <img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white">
+    <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2c2255?style=flat&logo=eclipse&logoColor=white">
+    <img alt="Ideone" src="https://img.shields.io/badge/Ideone-00599c?style=flat&logoColor=white">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-f37626?&style=flat&logo=jupyter&logoColor=white">
+    <img alt="Pastebin" src="https://img.shields.io/badge/Pastebin-02456c?style=flat&logo=pastebin&logoColor=white">
+    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-575757?&style=flat&logo=sublimetext&logoColor=ff9800">
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat&logo=visualstudio&logoColor=white">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=flat&logo=visualstudiocode&logoColor=white">
+  </p>
+</details>
+
+<details>
+  <summary>Version Control</summary>
+  <p>
+    <img alt="Azure Repos" src="https://img.shields.io/badge/Azure%20Repos-0078d7?style=flat&logo=azuredevops&logoColor=white">
+    <img alt="Git" src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
+    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-181717?style=flat&logo=gitlab&logoColor=white">
+  </p>
+</details>
+
+<details>
+  <summary>Hosting / SaaS</summary>
+  <p>
+    <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-ff9900?style=flat&logo=amazonaws&logoColor=white">
+    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039be5?style=flat&logo=firebase">
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285f4?style=flat&logo=googlecloud&logoColor=white">
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white">
+    <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078d4?style=flat&logo=microsoftazure&logoColor=white">
+    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00c7b7?style=flat&logo=netlify&logoColor=white">
+  </p>
+</details>
+
+<details>
+  <summary>Continuous Integration / Continuous Deployment</summary>
+  <p>
+    <img alt="Azure Functions" src="https://img.shields.io/badge/Azure%20Functions-0062ad?style=flat&logo=azurefunctions&logoColor=white">
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088ff?style=flat&logo=githubactions&logoColor=white">
+    <img alt="GitLab CI" src="https://img.shields.io/badge/GitLab%20CI-181717?style=flat&logo=gitlab&logoColor=white">
   </p>
 </details>
