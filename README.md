@@ -27,6 +27,12 @@ I believe that computer science and mathematics are a key part of life. Being am
   </a>
 </p>
 
+## Languages
+<p>
+  <img alt="English" src="https://img.shields.io/badge/English-Fluent-6baf92?style=flat&labelColor=181717">
+  <img alt="Spanish" src="https://img.shields.io/badge/Spanish-Native-00b4d8?style=flat&labelColor=181717">
+</p>
+
 ## Skills
 
 <details>
@@ -100,6 +106,16 @@ I believe that computer science and mathematics are a key part of life. Being am
 </details>
 
 <details>
+  <summary>API Development</summary>
+  <p>
+    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-e10098?style=flat&logo=graphql&logoColor=white">
+    <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white">
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-ff6c37?&style=flat&logo=postman&logoColor=white">
+    <img alt="REST API" src="https://img.shields.io/badge/REST%20API-00599c?style=flat">
+  </p>
+</details>
+
+<details>
   <summary>Frameworks</summary>
   <p>
     <img alt=".NET" src="https://img.shields.io/badge/.NET-512bd4?style=flat&logo=dotnet&logoColor=white">
@@ -109,6 +125,7 @@ I believe that computer science and mathematics are a key part of life. Being am
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
     <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769ad?style=flat&logo=jquery&logoColor=white">
+    <img alt="reveal.js" src="https://img.shields.io/badge/reveal.js-181717?style=flat&logo=revealdotjs&logoColor=f2e142">
     <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat&logo=springboot&logoColor=white">
   </p>
 </details>
@@ -154,6 +171,17 @@ I believe that computer science and mathematics are a key part of life. Being am
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white">
     <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-f7931e?style=flat&logo=scikitlearn&logoColor=white">
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-ff6f00?style=flat&logo=tensorflow&logoColor=white">
+  </p>
+</details>
+
+<details>
+  <summary>Static Site Generators</summary>
+  <p>
+    <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-663399?style=flat&logo=gatsby&logoColor=white">
+    <img alt="Hugo" src="https://img.shields.io/badge/Hugo-ff4088?style=flat&logo=hugo&logoColor=white">
+    <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
+    <img alt="Pelican" src="https://img.shields.io/badge/Pelican-14a0c4?style=flat&logo=pelican&logoColor=white">
+    <img alt="Sphinx" src="https://img.shields.io/badge/Sphinx-00599c?style=flat">
   </p>
 </details>
 
