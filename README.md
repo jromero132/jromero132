@@ -1,10 +1,16 @@
-# Hi, I am Romero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<p align="left">
+  <img alt="Romero's GitHub followers" src="https://img.shields.io/github/followers/jromero132?style=flat&label=Followers">
+  <img alt="Romero's profile views" src="https://komarev.com/ghpvc/?username=jromero132&label=Views">
+</p>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I am Romero
 
 <p align="justify">
 I believe that computer science and mathematics are a key part of life. Being ambitious and willing to face challenges, asking questions and exploring problems without quite knowing how the solution will emerge are the key to my interest in these fields. With good manners and being polite I communicate myself to the people I am working with. I am a proactive programmer, enthusiastic and eager for knowledge.
 </p>
 
-:computer: **Experience:** Mid level developer with 3 years of experience  
+:watch: **Experience:** Mid level developer with 3 years of experience  
+:computer: **Current job position:** Full Stack Developer  
 :mortar_board: **Education:** Bachelor of Science in Computer Science  
 :school_satchel: **University:** University of Havana (class of 2020)
 
@@ -108,7 +114,7 @@ I believe that computer science and mathematics are a key part of life. Being am
 <details>
   <summary>Message Brokers</summary>
   <p>
-    <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231f20?style=flat&logo=apachekafka&logoColor=white">
+    <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231f20?style=flat&logo=apachekafka&logoColor=white">
     <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-ff6600?&style=flat&logo=rabbitmq&logoColor=white">
   </p>
 </details>
@@ -120,7 +126,7 @@ I believe that computer science and mathematics are a key part of life. Being am
     <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-ff6c37?&style=flat&logo=postman&logoColor=white">
     <img alt="REST API" src="https://img.shields.io/badge/REST%20API-00599c?style=flat">
-    <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85ea2d?&style=flat&logo=swagger&logoColor=white">
+    <img alt="Swagger" src="https://img.shields.io/badge/Swagger-171818?&style=flat&logo=swagger&logoColor=85ea2d">
   </p>
 </details>
 
@@ -155,6 +161,7 @@ I believe that computer science and mathematics are a key part of life. Being am
     <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon%20AWS-ff9900?style=flat&logo=amazonaws&logoColor=white">
     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039be5?style=flat&logo=firebase">
     <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285f4?style=flat&logo=googlecloud&logoColor=white">
+    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-181717?style=flat&logo=github&logoColor=white">
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white">
     <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078d4?style=flat&logo=microsoftazure&logoColor=white">
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00c7b7?style=flat&logo=netlify&logoColor=white">
@@ -176,6 +183,7 @@ I believe that computer science and mathematics are a key part of life. Being am
     <img alt="Keras" src="https://img.shields.io/badge/Keras-d00000?style=flat&logo=keras&logoColor=white">
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-00599c?style=flat">
     <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+    <img alt="OpenAI Gym" src="https://img.shields.io/badge/OpenAI%20Gym-0081a5?style=flat&logo=openaigym&logoColor=white">
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?style=flat&logo=pytorch&logoColor=white">
     <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-f7931e?style=flat&logo=scikitlearn&logoColor=white">
@@ -190,6 +198,7 @@ I believe that computer science and mathematics are a key part of life. Being am
     <img alt="Hugo" src="https://img.shields.io/badge/Hugo-ff4088?style=flat&logo=hugo&logoColor=white">
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white">
     <img alt="Pelican" src="https://img.shields.io/badge/Pelican-14a0c4?style=flat&logo=pelican&logoColor=white">
+    <img alt="Read the Docs" src="https://img.shields.io/badge/Read%20the%20Docs-8ca1af?style=flat&logo=readthedocs&logoColor=white">
     <img alt="Sphinx" src="https://img.shields.io/badge/Sphinx-00599c?style=flat">
   </p>
 </details>
@@ -215,6 +224,7 @@ I believe that computer science and mathematics are a key part of life. Being am
     <img alt="Alpine Linux" src="https://img.shields.io/badge/Alpine%20Linux-0d597f?style=flat&logo=alpinelinux&logoColor=white">
     <img alt="Android" src="https://img.shields.io/badge/Android-3ddc84?style=flat&logo=android&logoColor=white">
     <img alt="Debian" src="https://img.shields.io/badge/Debian-a81d33?style=flat&logo=debian&logoColor=white">
+    <img alt="Kubuntu" src="https://img.shields.io/badge/Kubuntu-0079c1?style=flat&logo=kubuntu&logoColor=white">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-fcc624?style=flat&logo=linux&logoColor=black">
     <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87cf3e?&style=flat&logo=linuxmint&logoColor=white">
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-e95420?style=flat&logo=ubuntu&logoColor=white">
@@ -228,6 +238,7 @@ I believe that computer science and mathematics are a key part of life. Being am
     <img alt="APT" src="https://img.shields.io/badge/APT-00599c?style=flat">
     <img alt="Chocolatey" src="https://img.shields.io/badge/Chocolatey-80b5e3?style=flat&logo=chocolatey&logoColor=white">
     <img alt="Maven" src="https://img.shields.io/badge/Maven-c71a36?style=flat&logo=apachemaven&logoColor=white">
+    <img alt="npm" src="https://img.shields.io/badge/npm-171818?&style=flat&logo=npm&logoColor=white">
     <img alt="NuGet" src="https://img.shields.io/badge/NuGet-004880?&style=flat&logo=nuget&logoColor=white">
     <img alt="PyPi" src="https://img.shields.io/badge/PyPi-3775a9?style=flat&logo=pypi&logoColor=white">
   </p>
@@ -249,8 +260,10 @@ I believe that computer science and mathematics are a key part of life. Being am
     <img alt="Jira" src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white">
     <img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft%20Teams-6264a7?style=flat&logo=microsoftteams&logoColor=white">
     <img alt="Rocket.Chat" src="https://img.shields.io/badge/Rocket.Chat-f5455c?style=flat&logo=rocketdotchat&logoColor=white">
+    <img alt="Signal" src="https://img.shields.io/badge/Signal-3a76f0?style=flat&logo=signal&logoColor=white">
     <img alt="Skype" src="https://img.shields.io/badge/Skype-00aff0?style=flat&logo=skype&logoColor=white">
     <img alt="Slack" src="https://img.shields.io/badge/Slack-4a154b?style=flat&logo=slack&logoColor=white">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26a5e4?style=flat&logo=telegram&logoColor=white">
     <img alt="Trello" src="https://img.shields.io/badge/Trello-0052cc?style=flat&logo=trello&logoColor=white">
   </p>
 </details>
@@ -268,5 +281,7 @@ I believe that computer science and mathematics are a key part of life. Being am
     <img alt="Leaflet" src="https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white">
     <img alt="Material Icons" src="https://img.shields.io/badge/Material%20Icons-0081cb?style=flat&logo=materialui&logoColor=white">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white">
+    <img alt="Shields.io" src="https://img.shields.io/badge/Shields.io-000000?style=flat&logo=shieldsdotio&logoColor=white">
+    <img alt="YAML" src="https://img.shields.io/badge/YAML-00599c?style=flat">
   </p>
 </details>
