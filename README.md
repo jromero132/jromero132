@@ -10,7 +10,7 @@ I believe that computer science and mathematics are a key part of life. Being am
 </p>
 
 :watch: **Experience:** Mid level developer with 3 years of experience  
-:computer: **Current job position:** Full Stack Developer  
+:computer: **Current job position:** doWhile Continuous Integration Consultant at Safe Vehicle Automation in Volvo Cars  
 :mortar_board: **Education:** Bachelor of Science in Computer Science  
 :school_satchel: **University:** University of Havana (class of 2020)
 
@@ -19,7 +19,7 @@ I believe that computer science and mathematics are a key part of life. Being am
 <p>
   <a href="https://github.com/jromero132"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a>
   <a href="mailto:josea132.romero@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-ea4335?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jose-ariel-romero/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jromero132/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white"></a>
 </p>
 
 ## Stats
