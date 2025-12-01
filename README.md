@@ -9,9 +9,9 @@
 I believe that computer science and mathematics are a key part of life. Being ambitious and willing to face challenges, asking questions and exploring problems without quite knowing how the solution will emerge are the key to my interest in these fields. With good manners and being polite I communicate myself to the people I am working with. I am a proactive programmer, enthusiastic and eager for knowledge.
 </p>
 
-:watch: **Experience:** Mid level developer with 3 years of experience  
-:computer: **Current job position:** doWhile Continuous Integration Consultant at Safe Vehicle Automation in Volvo Cars  
-:mortar_board: **Education:** Bachelor of Science in Computer Science  
+:watch: **Experience:** **Senior Data Engineer** with **8 years of experience**  
+:computer: **Current job position:** **Senior Data Engineer** at **Ericsson AB**  
+:mortar_board: **Education:** Master of Science in Computer Science  
 :school_satchel: **University:** University of Havana (class of 2020)
 
 ## Social
@@ -37,6 +37,7 @@ I believe that computer science and mathematics are a key part of life. Being am
 <p>
   <img alt="English" src="https://img.shields.io/badge/English-Fluent-6baf92?style=flat&labelColor=181717">
   <img alt="Spanish" src="https://img.shields.io/badge/Spanish-Native-00b4d8?style=flat&labelColor=181717">
+  <img alt="Swedish" src="https://img.shields.io/badge/Swedish-Basic%20Conversational-ff6fff?style=flat&labelColor=181717">
 </p>
 
 ## Skills
@@ -59,6 +60,7 @@ I believe that computer science and mathematics are a key part of life. Being am
     <img alt="Prolog" src="https://img.shields.io/badge/Prolog-00599c?style=flat">
     <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54">
     <img alt="R" src="https://img.shields.io/badge/R-276dc3?style=flat&logo=r&logoColor=white">
+    <img alt="Rust" src="https://shields.io/badge/-Rust-3776AB?style=flat&logo=rust&logoColor=white">
   </p>
 </details>
 
